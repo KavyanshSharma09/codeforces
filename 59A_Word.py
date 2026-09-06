@@ -1,6 +1,5 @@
 s = str(input())
 lc ="abcdefghijklmnopqrstuvwxz"
-uc = "ABCDEFGHIJKLMNOPQRSTUVW"
 lcc = 0
 for i in s:
     if i in lc:
